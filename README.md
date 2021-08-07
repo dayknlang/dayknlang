@@ -15,7 +15,7 @@
 <div>
        
    ![DayaneLang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayknlang&theme=cobalt&show_icons=true)
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayknlang&layout=compact&langs_count=7&theme=cobalt"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayknlang&layout=compact&langs_count=7&theme=cobalt"/>
   
 </div>
 
@@ -32,14 +32,13 @@
   <img align="center" alt="Day-AWS" height="50" width="50" src="https://img.icons8.com/windows/32/000000/amazon-web-services.png">
   <img align="center" alt="Day-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png">
   <img align="center" alt="Day-Materialui" height="50" width="50" src="https://img.icons8.com/color/48/000000/material-ui.png">
-  <img align="right" alt="Day-connection" height="250" width="250"  src="https://media.giphy.com/media/MXdKPkHS4Dc6fkJtqQ/giphy.gif">
+  <img align="right" alt="Day-connection" height="200" width="200" src="https://media.giphy.com/media/MXdKPkHS4Dc6fkJtqQ/giphy.gif">
 </div>
 
 ##
  
 <div> 
-  <a href = "mailto:dayaneknlang@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dayane-lang" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href = "mailto:dayaneknlang@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
+  <a href="https://www.linkedin.com/in/dayane-lang" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
