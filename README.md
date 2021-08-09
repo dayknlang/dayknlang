@@ -34,18 +34,12 @@
   <img align="center" alt="Day-Materialui" height="50" width="50" src="https://img.icons8.com/color/48/000000/material-ui.png">
  
 </div>
-<br>
-##
-
-<div>
-  <img align="left" alt="amongusgif" height="150" width="200" src="https://github.com/dayknlang/dayknlang/blob/main/am0ngsusxh-28.gif?raw=true">
-  <img align="right" alt="Day-connection" height="200" width="200" src="https://media.giphy.com/media/MXdKPkHS4Dc6fkJtqQ/giphy.gif">
-</div>
 
 ##
  <div> 
+   <img align="left" alt="amongusgif" height="150" width="200" src="https://github.com/dayknlang/dayknlang/blob/main/am0ngsusxh-28.gif?raw=true">
      <a href="https://www.linkedin.com/in/dayane-lang" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:dayaneknlang@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+ <img align="right" alt="Day-connection" height="200" width="200" src="https://media.giphy.com/media/MXdKPkHS4Dc6fkJtqQ/giphy.gif">
 </div>
 
