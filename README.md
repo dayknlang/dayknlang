@@ -43,3 +43,5 @@
  <img align="center" alt="amongusgif" height="150" width="300" src="https://github.com/dayknlang/dayknlang/blob/main/am0ngsusxh-28.gif?raw=true">
 </div>
 
+<p align="right"> Visitantes </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
