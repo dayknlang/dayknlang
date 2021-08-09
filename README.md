@@ -47,5 +47,5 @@
 <div>
 <img align="left" alt="Visitantes" src="https://img.shields.io/static/v1?label=<Visitantes>&message=<Github>&color=<brightgre">
   <br>
-<p align="left"> <img alingn="left" height="20" width="80" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="justify"> <img alingn="justify" height="20" width="80" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 </div>
