@@ -45,6 +45,6 @@
 
 ##
 <div>
-<p align="right"> Visitantes </p>
-<p align="right">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="left"> Visitantes </p>
+<p align="left"> <img alingn="left" height="20" width="20" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 </div>
