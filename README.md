@@ -36,7 +36,7 @@
 </div>
 
 ##
- <div> 
+ <div style="display: inline_block" align="center"> 
    <a href="https://www.linkedin.com/in/dayane-lang" target="_blank" align="center"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:dayaneknlang@gmail.com" align="center"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br>
