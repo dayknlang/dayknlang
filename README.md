@@ -39,6 +39,7 @@
  <div> 
    <a href="https://www.linkedin.com/in/dayane-lang" target="_blank" align="center"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:dayaneknlang@gmail.com" align="center"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br>
  <img align="center" alt="amongusgif" height="150" width="200" src="https://github.com/dayknlang/dayknlang/blob/main/am0ngsusxh-28.gif?raw=true">
 </div>
 
