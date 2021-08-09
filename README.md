@@ -37,8 +37,10 @@
 
 ##
  <div> 
-    <a href="https://www.linkedin.com/in/dayane-lang" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dayaneknlang@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="left" alt="amongusgif" height="200" width="200" src="https://github.com/dayknlang/dayknlang/blob/main/am0ngsusxh-28.gif?raw=true">
+  
+    <a href="https://www.linkedin.com/in/dayane-lang" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dayaneknlang@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
 
