@@ -9,7 +9,8 @@
 - 😄 Pronouns: ela/she
 - ⚡ Curiosidades: <pre>- Estou em transição de carreira, e amando aprender novas stacks e aplicá-las em meus projetos <img height="20" width="20" src="https://img.icons8.com/office/16/000000/one-way-transition.png"/> 
                    - Amo muito os meus gatinhos, meus companheiros de code <img height="20" width="30" src="https://img.icons8.com/ios/48/000000/black-cat.png"/><img height="20" width="30" src="https://img.icons8.com/flat-round/64/000000/cat--v1.png"/><img height="20" width="30" src="https://img.icons8.com/pastel-glyph/64/000000/cat--v1.png"/>
-                   - Tenho uma filha gamer autodidata <img alt="Fillegamer" height="20" width="40" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></pre>
+                   - Tenho uma filha gamer autodidata <img alt="Fillegamer" height="20" width="40" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+                   - Estou em constante aprendizado para a fluência em Francês e Inglês 🍁🌎></pre>
 ##
 
 <div>
