@@ -4,7 +4,7 @@
 
 - 🔭 Sou desenvolvedora Web FullStack👩🏻‍💻
 - 🌱 Comecei a estudar Mobile
-- 👯 Contribui para o desevolvimento do Projeto ofertado pelo <strong>Hackaton4Good</strong> cliente real: <strong>ONG EcoPatas</strong>
+- 👯 Contribui para o desenvolvimento do Projeto ofertado pelo <strong>Hackaton4Good</strong> cliente real: <strong>ONG EcoPatas</strong>
 - 📫 Fale comigo: dayaneknlang@gmail.com
 - 😄 Pronouns: ela/she
 - ⚡ Curiosidades: <pre>- Estou em transição de carreira, e amando aprender novas stacks e aplicá-las em meus projetos <img height="20" width="20" src="https://img.icons8.com/office/16/000000/one-way-transition.png"/> 
